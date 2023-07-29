@@ -16,7 +16,7 @@
         <h2
           class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
         >
-          About Me
+          Tentang Saya
         </h2>
         <table>
           <tr>
@@ -145,7 +145,7 @@
         <h2
           class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
         >
-          Skill
+          Keterampilan
         </h2>
         <div class="flex justify-between mb-1">
           <span class="text-base font-medium text-blue-700 dark:text-white"
@@ -180,7 +180,7 @@
     <h2
       class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
     >
-      My Project
+      projek saya
     </h2>
     <div class="grid md:grid-cols-4 gap 8">
     <div class="mt-10 max-w-sm mx-auto">
