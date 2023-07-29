@@ -199,7 +199,7 @@
         >
           <div class="flex-row text-center">
             <h1 class="text-gray-50 font-bold text-lg">
-              First
+              Pertama
             </h1>
             <p class="text-gray-200 font-medium text-sm">Tulus</p>
           </div>
@@ -222,7 +222,7 @@
         >
           <div class="flex-row text-center">
             <h1 class="text-gray-50 font-bold text-lg">
-              Second
+              Kedua
             </h1>
             <p class="text-gray-200 font-medium text-sm">Tulus</p>
           </div>
@@ -245,7 +245,7 @@
         >
           <div class="flex-row text-center">
             <h1 class="text-gray-50 font-bold text-lg">
-              Third
+              Ketiga
             </h1>
             <p class="text-gray-200 font-medium text-sm">Tulus</p>
           </div>
@@ -268,7 +268,7 @@
         >
           <div class="flex-row text-center">
             <h1 class="text-gray-50 font-bold text-lg">
-              Fourth
+              Keempat
             </h1>
             <p class="text-gray-200 font-medium text-sm">Tulus</p>
           </div>
