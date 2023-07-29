@@ -46,7 +46,7 @@
           bahasa dan budaya dari luar negeri dan juga saya senang memplejari
           bahasa, bahasa yang baru saya bisa adalah bahasa Inggris dan jepang
           tapi di bahasa jepang saya hanya bisa sedikit mengerti dalam
-          pembicaraan
+          pembicaraan dan untuk dalam bahasa inggris saya cukup percaya diri dalam hal conversation karena saya sering melatih conversation saya
         </p>
         <br />
         <ol class="items-center sm:flex">
@@ -279,5 +279,3 @@
   </center>
   <!-- project section -->
 </template>
-
-https://darvideo.tv/wp-content/uploads/2021/10/Project-management-1.webp
