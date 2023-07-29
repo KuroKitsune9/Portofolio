@@ -180,7 +180,7 @@
     <h2
       class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
     >
-      My First Project
+      My Project
     </h2>
     <div class="grid md:grid-cols-4 gap 8">
     <div class="mt-10 max-w-sm mx-auto">
